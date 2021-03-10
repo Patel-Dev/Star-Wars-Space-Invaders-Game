@@ -1,0 +1,51 @@
+*****************************************************
+*	Replace the "-" dash with an "X" for each		*
+*	specification that you've integrated into your	*
+*	program.										*
+*****************************************************
+
+70% maximum (80% maximum for ICS3C):
+X Regular submission
+
+80% maximum (90% maximum for ICS3C):
+X How to play instructions
+X Scoring mechanism
+X Play-again mechanism
+
+90% maximum (100% maximum for ICS3C):
+X Collision detection
+X High score listing and ranking
+X Multiplayer
+
+95% maximum:
+X Any one of the medium or hard bonuses
+
+100% maximum:
+X Another medium or hard bonus
+
+Easy Bonus (1% addition to the maximum):
+- Controller / Joystick (Doesn’t run on Repl)
+X Music / Sounds (Doesn’t run on Repl)
+- Seek/flee AI steering behaviour / trigonometric rotation
+- _______________________
+
+Medium Bonus (2% addition to the maximum):
+X Visual effect (i.e. motion blur, mirror effect, light/shadow, etc.) - MOTION BLUR
+- Power-up mechanic
+- Particle emitter
+- Linear 2D Physics
+- Linear interpolation
+- Pursue/evade AI steering behaviour
+- Rotation matrix multiplication and vectors
+X Intro menu with four functioning buttons
+
+Hard Bonus (5% addition to the maximum):
+- CPU Competitors
+- “How to play” tutorial level
+- Rotational 2D Physics
+- Path-finding (Dijkstra, A*)
+- Linked-lists
+- Flocking AI behaviour
+- Spline interpolation
+- Forward kinematics
+- _______________________
